@@ -1,10 +1,13 @@
 `작동 방법`
 ```
-npm run start
+npm start
 ```
-# description
+# Challenge
 
-recoil로 전역 state를 관리하는법, react-hook-form을 통해 좀더 깔끔하게 form 태그를 구성할 수 있고 beautiful-dnd 라는 라이브러리를 통해 trello 사이트의 기능을 만들어봤습니다.  
+- recoil로 전역 state를 관리
+- react-hook-form 라이브러리를 사용하여 기존 form 개선 및 가독성 향상
+- beautiful-dnd를 사용해 사용자 UI/UX 개선
 
-사용한 라이브러리에 대한 이해도를 높이고 전체적인 state관리 방법에 대해 배웠습니다.  
-
+# Takeaways
+  
+전체 state관리법과 react가 추구하는 데이터 흐름의 프로세스를 익혔습니다.
